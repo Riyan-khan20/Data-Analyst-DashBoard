@@ -6,15 +6,12 @@ This repository contains various data analytics dashboards created using Power B
 
 ### 1️⃣ Expense Analytics Dashboard
 - **Overview**: Tracks and analyzes expenses over time, categorizing spending and identifying trends.
-- **Tools Used**: Power BI / Tableau / Excel
+- **Tools Used**: Power BI / Excel
 - **Key Metrics**:
   - Monthly expense breakdown
   - Category-wise spending
   - Year-over-Year comparison
   - Budget vs Actual expenses
-- 📂 Files:
-  - [`expense_dashboard.png`](expense_dashboard.png)
-  - [`expense_report.pdf`](expense_report.pdf)
 
 ### 2️⃣ Bank Analytics Dashboard
 - **Overview**: Analyzes banking data, focusing on loan distributions and financial trends.
@@ -24,9 +21,6 @@ This repository contains various data analytics dashboards created using Power B
   - Payment status analysis
   - Credit score segmentation
   - Geographic loan distribution
-- 📂 Files:
-  - [`bank_dashboard.png`](bank_dashboard.png)
-  - [`bank_report.pdf`](bank_report.pdf)
 
 ## 🔧 How to Use
 1. Open the **PNG/PDF** files to view the dashboards.
